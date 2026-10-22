@@ -23,6 +23,8 @@ voice ─▶ ResNet34 embedding ─▶ VoiceTracker ──confirmed──▶ Nam
 
 ## Install / use
 ```bash
+pip install "familyvoice[device] @ git+https://github.com/moduvoice/familyvoice"
+# or from a checkout:
 pip install -e .              # numpy + onnxruntime + huggingface_hub (no torch)
 pip install -e ".[device]"    # + onnx, to build the int8 model for a device CPU
 ```
