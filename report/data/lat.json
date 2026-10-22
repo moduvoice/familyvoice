@@ -1,0 +1,27 @@
+{
+ "r293": {
+  "gpu_ms_3s": 7.5,
+  "cpu4_ms_3s": 150.6,
+  "size_mb": 114.3
+ },
+ "campp": {
+  "gpu_ms_3s": 9.2,
+  "cpu4_ms_3s": 20.6,
+  "size_mb": 29.3
+ },
+ "redim_b2": {
+  "gpu_ms_3s": 10.3,
+  "cpu4_ms_3s": 36.8,
+  "size_mb": 20.3
+ },
+ "redim_b6": {
+  "gpu_ms_3s": 18.4,
+  "cpu4_ms_3s": 156.2,
+  "size_mb": 60.1
+ },
+ "r34": {
+  "gpu_ms_3s": 2.3,
+  "cpu4_ms_3s": 161.0,
+  "size_mb": 26.5
+ }
+}
